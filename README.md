@@ -1,1 +1,0 @@
-# scorefast-lib
